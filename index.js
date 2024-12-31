@@ -955,4 +955,4 @@ process.on('uncaughtException', (error) => {
     runAll(false);
 });
 
-runAll();
+runAll(false);
